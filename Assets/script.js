@@ -22,7 +22,7 @@ $( document ).ready(function() {
 });
 
 $( document ).ready(function() {
-    var appID = "PUT YOUR API KEY HERE";
+    var appID = "f41db2588c976c36341b4a73e28d5118";
 
     $(".query_btn").click(function(){
 
